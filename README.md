@@ -22,12 +22,33 @@ I'm Wiktor, a passionate computer science student with a love for coding and inn
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=WSm-77&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=WSm-77&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=WSm-77&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<div align="center">
+
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=WSm-77&theme=github_light&hide_border=false&include_all_commits=true&count_private=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=WSm-77&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true">
+</picture>
+
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=WSm-77&theme=github_light&hide_border=false">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=WSm-77&theme=github_dark&hide_border=false">
+</picture>
+
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WSm-77&theme=github_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WSm-77&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
+</picture>
+
+</div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=WSm-77&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=WSm-77&icon=0&color=1)](https://visitcount.itsvg.in)
+<div align="center">
+
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=WSm-77&theme=vue&no-frame=false&no-bg=true&margin-w=4">
+    <img src="https://github-profile-trophy.vercel.app/?username=WSm-77&theme=radical&no-frame=false&no-bg=true&margin-w=4">
+</picture>
+
+</div>
