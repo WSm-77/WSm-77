@@ -31,13 +31,12 @@ I'm Wiktor, a passionate computer science student with a love for coding and inn
 <div align="center">
 
 <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=WSm-77&theme=github_light&hide_border=false">
-    <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=WSm-77&theme=github_light&hide_border=false">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=WSm-77&theme=github_dark&hide_border=false">
+    <source height="150px" media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=WSm-77&theme=github_light&hide_border=false">
+    <img height="150px" src="https://nirzak-streak-stats.vercel.app/?user=WSm-77&theme=github_dark&hide_border=false">
 </picture>
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=WSm-77&theme=vue&hide_border=false&include_all_commits=true&count_private=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=WSm-77&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true">
+    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=WSm-77&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true">
 </picture>
 
 <picture>
