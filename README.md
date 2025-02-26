@@ -40,8 +40,8 @@ I'm Wiktor, a passionate computer science student with a love for coding and inn
 </picture>
 
 <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=WSm-77&theme=vue&hide_border=false&include_all_commits=true&count_private=true&bg_color=ffffff&point=000000">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=WSm-77&theme=github&hide_border=false&include_all_commits=true&count_private=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=WSm-77&theme=vue&hide_border=false&include_all_commits=true&count_private=true&bg_color=00000000&point=000000">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=WSm-77&theme=github&hide_border=false&include_all_commits=true&count_private=true&radius=5&bg_color=00000000">
 </picture>
 
 </div>
