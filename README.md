@@ -32,7 +32,7 @@ I'm Wiktor, a passionate computer science student with a love for coding and inn
 
 <picture>
     <source height="150px" media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=WSm-77&theme=github_light&hide_border=false">
-    <img height="150px" src="https://nirzak-streak-stats.vercel.app/?user=WSm-77&theme=github_dark&hide_border=false">
+    <img height="150px" src="https://nirzak-streak-stats.vercel.app/?user=WSm-77&theme=github_dark_blue&hide_border=false">
 </picture>
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=WSm-77&theme=vue&hide_border=false&include_all_commits=true&count_private=true">
@@ -40,8 +40,8 @@ I'm Wiktor, a passionate computer science student with a love for coding and inn
 </picture>
 
 <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=WSm-77&theme=vue&hide_border=false&include_all_commits=true&count_private=true&bg_color=00000000&point=000000">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=WSm-77&theme=github&hide_border=false&include_all_commits=true&count_private=true&radius=5&bg_color=00000000">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=WSm-77&theme=vue&hide_border=false&include_all_commits=true&count_private=true&bg_color=ffffff00&point=000000">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=WSm-77&theme=tokyo-night&hide_border=false&include_all_commits=true&count_private=true&radius=5&bg_color=00000000">
 </picture>
 
 </div>
