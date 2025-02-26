@@ -21,23 +21,42 @@ I'm Wiktor, a passionate computer science student with a love for coding and inn
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WSm-77&theme=github_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WSm-77&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
+</picture>
+
 # 📊 GitHub Stats:
 
 <div align="center">
 
+<!-- <picture>
+    <source width="420px" media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=WSm-77&theme=github_light&hide_border=false">
+    <source width="420px" media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=WSm-77&theme=github_light&hide_border=false">
+    <img width="420px" src="https://nirzak-streak-stats.vercel.app/?user=WSm-77&theme=github_dark&hide_border=false">
+</picture>
+<picture>
+    <source width="420px" media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=WSm-77&theme=github_light&hide_border=false&include_all_commits=true&count_private=true">
+    <img width="420px" src="https://github-readme-stats.vercel.app/api?username=WSm-77&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true">
+</picture>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WSm-77&theme=github_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WSm-77&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
+</picture> -->
+
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=WSm-77&theme=github_light&hide_border=false">
+    <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=WSm-77&theme=github_light&hide_border=false">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=WSm-77&theme=github_dark&hide_border=false">
+</picture>
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=WSm-77&theme=github_light&hide_border=false&include_all_commits=true&count_private=true">
     <img src="https://github-readme-stats.vercel.app/api?username=WSm-77&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true">
 </picture>
 
 <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=WSm-77&theme=github_light&hide_border=false">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=WSm-77&theme=github_dark&hide_border=false">
-</picture>
-
-<picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WSm-77&theme=github_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WSm-77&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=WSm-77&theme=vue&hide_border=false&include_all_commits=true&count_private=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=WSm-77&theme=github&hide_border=false&include_all_commits=true&count_private=true">
 </picture>
 
 </div>
