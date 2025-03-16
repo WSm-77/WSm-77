@@ -56,3 +56,87 @@ I'm Wiktor, a passionate computer science student with a love for coding and inn
 </picture>
 
 </div>
+
+## Repositiories
+
+<table style="width:100%; border: solid 1px; border-collapse: collapse;">
+    <tr>
+        <th colspan="2" style="text-align:center; width:100%">
+        <h3>
+        I Year
+        </h3>
+        </th>
+    </tr>
+    <tr>
+        <th style="text-align: center; width:50%;">Term 1</th>
+        <th style="text-align: center; width:50%;">Term 2</th>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li><a href="https://github.com/WSm-77/introduction_to_computer_science">Introduction to Computer Science</a></li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li><a href="https://github.com/WSm-77/algorithms_and_data_structures/tree/main/exercises">Algorithms and Data Structures</a></li>
+                <li><a href="https://github.com/WSm-77/PI">Imperative Programming</a></li>
+            </ul>
+        </td>
+    </tr>
+</table>
+
+<table style="width:100%; border: solid 1px; border-collapse: collapse;">
+    <tr>
+        <th colspan="2" style="text-align:center; width:100%">
+        <h3>
+        II Year
+        </h3>
+        </th>
+    </tr>
+    <tr>
+        <th style="text-align: center; width:50%;">Term 3</th>
+        <th style="text-align: center; width:50%;">Term 4</th>
+    </tr>
+    <tr>
+        <td>
+        Laboratories:
+            <ul>
+                <li><a href="https://github.com/WSm-77/probability_and_statistics">Probability and Statistics</a></li>
+                <li><a href="https://github.com/WSm-77/graph_algorithms">Graph Algorithms</a></li>
+                <li><a href="https://github.com/WSm-77/object_oriented_programming">Object Oriented Programming</a></li>
+                <li><a href="https://github.com/WSm-77/databases_basics">Databases</a></li>
+                <li><a href="https://github.com/WSm-77/geometric_algorithms">Geometric Algorithms</a></li>
+            </ul>
+            Projects:
+            <ul>
+                <li><a href="https://github.com/WSm-77/project_darwin_world">Darwin World (OOP Project)</a></li>
+                <li><a href="https://github.com/WSm-77/DB_uni_project">Courses Provider (Database Project)</a></li>
+                <li><a href="https://github.com/WSm-77/kirkpatrick_point_location">Kirkpatrick point location project</a></li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li><a href="https://github.com/WSm-77/programming_in_rust">Programming in Rust</a></li>
+            </ul>
+        </td>
+    </tr>
+</table>
+
+<table style="width:100%; border: solid 1px; border-collapse: collapse;">
+    <tr>
+        <th colspan="2" style="text-align:center; width:100%">
+        <h3>
+        Side projects
+        </h3>
+        </th>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li><a href="https://github.com/WSm-77/leetCode">LeetCode</a></li>
+                <li><a href="https://github.com/WSm-77/python_games">Games in Python</a></li>
+            </ul>
+        </td>
+    </tr>
+</table>
