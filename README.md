@@ -56,3 +56,48 @@ I'm Wiktor, a passionate computer science student with a love for coding and inn
 </picture>
 
 </div>
+
+# 🎓 University Course Repositories
+
+## 🏆 Year 1
+
+### 📖 Term 1
+> 📌 **[Introduction to Computer Science](https://github.com/WSm-77/introduction_to_computer_science)**
+
+### 📖 Term 2
+> 📌 **[Algorithms and Data Structures](https://github.com/WSm-77/algorithms_and_data_structures/tree/main/exercises)**
+>
+> 📌 **[Imperative Programming](https://github.com/WSm-77/PI)**
+
+## 🏆 Year 2
+
+### 📖 Term 3
+
+> #### 🔬 Classes
+> 📌 **[Probability and Statistics](https://github.com/WSm-77/probability_and_statistics)**
+>
+> 📌 **[Graph Algorithms](https://github.com/WSm-77/graph_algorithms)**
+>
+> 📌 **[Object Oriented Programming](https://github.com/WSm-77/object_oriented_programming)**
+>
+> 📌 **[Databases](https://github.com/WSm-77/databases_basics)**
+>
+> 📌 **[Geometric Algorithms](https://github.com/WSm-77/geometric_algorithms)**
+>
+> #### 🛠️ Projects
+>
+> 🚀 **[Darwin World (OOP Project)](https://github.com/WSm-77/project_darwin_world)**
+>
+> 🚀 **[Courses Provider (Database Project)](https://github.com/WSm-77/DB_uni_project)**
+>
+> 🚀 **[Kirkpatrick Point Location Project](https://github.com/WSm-77/kirkpatrick_point_location)**
+
+### 📖 Term 4
+
+> 📌 **[Programming in Rust](https://github.com/WSm-77/programming_in_rust)**
+
+## 🌟 Side Projects
+
+> 🧩 **[LeetCode](https://github.com/WSm-77/leetCode)**
+>
+> 🎮 **[Games in Python](https://github.com/WSm-77/python_games)**
