@@ -65,7 +65,7 @@ I'm Wiktor, a passionate computer science student with a love for coding and inn
 > 📌 **[Introduction to Computer Science](https://github.com/WSm-77/introduction_to_computer_science)**
 
 ### 📖 Term 2
-> 📌 **[Algorithms and Data Structures](https://github.com/WSm-77/algorithms_and_data_structures/tree/main/exercises)**
+> 📌 **[Algorithms and Data Structures](https://github.com/WSm-77/algorithms_and_data_structures/tree/main/exercises)** ⭐
 >
 > 📌 **[Imperative Programming](https://github.com/WSm-77/PI)**
 
@@ -86,11 +86,11 @@ I'm Wiktor, a passionate computer science student with a love for coding and inn
 >
 > #### 🛠️ Projects
 >
-> 🚀 **[Darwin World (OOP Project)](https://github.com/WSm-77/project_darwin_world)**
+> 🚀 **[Darwin World (OOP Project)](https://github.com/WSm-77/project_darwin_world)** ⭐
 >
-> 🚀 **[Courses Provider (Database Project)](https://github.com/WSm-77/DB_uni_project)**
+> 🚀 **[Courses Provider (Database Project)](https://github.com/WSm-77/DB_uni_project)** ⭐
 >
-> 🚀 **[Kirkpatrick Point Location Project](https://github.com/WSm-77/kirkpatrick_point_location)**
+> 🚀 **[Kirkpatrick Point Location Project](https://github.com/WSm-77/kirkpatrick_point_location)** ⭐
 
 ### 📖 Term 4
 
@@ -98,6 +98,6 @@ I'm Wiktor, a passionate computer science student with a love for coding and inn
 
 ## 🌟 Side Projects
 
-> 🧩 **[LeetCode](https://github.com/WSm-77/leetCode)**
+> 🧩 **[LeetCode](https://github.com/WSm-77/leetCode)** ⭐
 >
-> 🎮 **[Games in Python](https://github.com/WSm-77/python_games)**
+> 🎮 **[Games in Python](https://github.com/WSm-77/python_games)** ⭐
