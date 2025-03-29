@@ -1,7 +1,7 @@
 # 💫 Welcome to My GitHub Page!
 **Hi everyone!**
 
-I'm Wiktor, a passionate computer science student with a love for coding and innovation. This page showcases my projects, experiments and contributions. Feel free to explore, learn, and collaborate!
+I'm Wiktor, a passionate computer science student with a love for coding and innovation. This page showcases my projects, experiments and contributions. Feel free to explore, learn and collaborate!
 
 
 ## 🌐 Socials:
