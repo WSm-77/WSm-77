@@ -95,6 +95,8 @@ I'm Wiktor, a passionate computer science student with a love for coding and inn
 ### 📖 Term 4
 
 > 📌 **[Programming in Rust](https://github.com/WSm-77/programming_in_rust)**
+> 
+> 📌 **[Programming in Erlang and Elixire](https://github.com/WSm-77/programming_in_erlang_and_elixir)**
 
 ## 🌟 Side Projects
 
