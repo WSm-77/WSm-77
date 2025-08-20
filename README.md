@@ -95,13 +95,25 @@ I'm Wiktor, a passionate computer science student with a love for coding and inn
 ### 📖 Term 4
 
 > 📌 **[Programming in Rust](https://github.com/WSm-77/programming_in_rust)**
-> 
+>
 > 📌 **[Programming in Erlang and Elixire](https://github.com/WSm-77/programming_in_erlang_and_elixir)**
+>
+> 📌 **[Text algorithms](https://github.com/WSm-77/text_algorithms)**
+>
+> 📌 **[Computional methods in science and technology](https://github.com/WSm-77/computional_methods_in_science_and_technology)**
+>
+> 📌 **[Operating systems](https://github.com/WSm-77/operating_systems)**
+>
+> 📌 **[Elements of statystical machine learning](https://github.com/WSm-77/elements_of_statistical_machine_learning)**
+
+> #### 🛠️ Projects
+>
+> 🚀 **[Draw Master](https://github.com/WSm-77/DrawMaster)**
 
 ## 🌟 Side Projects
 
 > 🧩 **[LeetCode](https://github.com/WSm-77/leetCode)** ⭐
 >
 > 🎮 **[Games in Python](https://github.com/WSm-77/python_games)** ⭐
-> 
+>
 > 🚦 **[Traffic Light Management](https://github.com/WSm-77/traffic_light_management)** ⭐
