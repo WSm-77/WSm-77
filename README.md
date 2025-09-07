@@ -80,6 +80,8 @@ I'm Wiktor, a passionate computer science student with a love for coding and inn
 >
 > 📌 **[Object Oriented Programming](https://github.com/WSm-77/object_oriented_programming)**
 >
+> 📌 **[Functional Programming](https://github.com/WSm-77/functional_programming)**
+>
 > 📌 **[Databases](https://github.com/WSm-77/databases_basics)**
 >
 > 📌 **[Geometric Algorithms](https://github.com/WSm-77/geometric_algorithms)**
