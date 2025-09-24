@@ -98,7 +98,7 @@ I'm Wiktor, a passionate computer science student with a love for coding and inn
 
 > 📌 **[Programming in Rust](https://github.com/WSm-77/programming_in_rust)**
 >
-> 📌 **[Programming in Erlang and Elixire](https://github.com/WSm-77/programming_in_erlang_and_elixir)**
+> 📌 **[Programming in Erlang and Elixir](https://github.com/WSm-77/programming_in_erlang_and_elixir)**
 >
 > 📌 **[Text algorithms](https://github.com/WSm-77/text_algorithms)**
 >
@@ -110,7 +110,7 @@ I'm Wiktor, a passionate computer science student with a love for coding and inn
 
 > #### 🛠️ Projects
 >
-> 🚀 **[Draw Master](https://github.com/WSm-77/DrawMaster)**
+> 🚀 **[Draw Master](https://github.com/WSm-77/DrawMaster)** ⭐
 
 ## 🌟 Side Projects
 
