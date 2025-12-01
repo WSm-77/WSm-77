@@ -119,3 +119,5 @@ I'm Wiktor, a passionate computer science student with a love for coding and inn
 > 🎮 **[Games in Python](https://github.com/WSm-77/python_games)** ⭐
 >
 > 🚦 **[Traffic Light Management](https://github.com/WSm-77/traffic_light_management)** ⭐
+>
+> 🤖 **[Understanding Deep Learning Notebook Solutions](https://github.com/WSm-77/udlbook)** ⭐
