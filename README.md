@@ -112,6 +112,16 @@ I'm Wiktor, a passionate computer science student with a love for coding and inn
 >
 > 🚀 **[Draw Master](https://github.com/WSm-77/DrawMaster)** ⭐
 
+## 🏆 Year 3
+
+### 📖 Term 5
+
+> 📌 **[Introduction to AI](https://github.com/WSm-77/introduction_to_ai)**
+
+> #### 🛠️ Projects
+>
+> 🚀 **[Interpreter for matrix operations](https://github.com/WSm-77/compilers) ⭐**
+
 ## 🌟 Side Projects
 
 > 🧩 **[LeetCode](https://github.com/WSm-77/leetCode)** ⭐
@@ -119,5 +129,7 @@ I'm Wiktor, a passionate computer science student with a love for coding and inn
 > 🎮 **[Games in Python](https://github.com/WSm-77/python_games)** ⭐
 >
 > 🚦 **[Traffic Light Management](https://github.com/WSm-77/traffic_light_management)** ⭐
+>
+> ✅ **[TODO App REST API in Spring Boot](https://github.com/WSm-77/todo_app/)** ⭐
 >
 > 🤖 **[Understanding Deep Learning Notebook Solutions](https://github.com/WSm-77/udlbook)** ⭐
