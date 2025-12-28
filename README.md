@@ -124,7 +124,7 @@ I'm Wiktor, a passionate computer science student with a love for coding and inn
 >
 > 🚀 **[Interpreter for matrix operations](https://github.com/WSm-77/compilers) ⭐**
 
-## 🌟 Side Projects
+# 🌟 Side Projects
 
 > 🧩 **[LeetCode](https://github.com/WSm-77/leetCode)** ⭐
 >
