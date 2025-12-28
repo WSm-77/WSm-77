@@ -134,4 +134,6 @@ I'm Wiktor, a passionate computer science student with a love for coding and inn
 >
 > ✅ **[TODO App REST API in Spring Boot](https://github.com/WSm-77/todo_app/)** ⭐
 >
+> 🧪 **[TODO App in Flask](https://github.com/WSm-77/flask_projects)** ⭐
+>
 > 🤖 **[Understanding Deep Learning Notebook Solutions](https://github.com/WSm-77/udlbook)** ⭐
