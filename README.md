@@ -117,6 +117,8 @@ I'm Wiktor, a passionate computer science student with a love for coding and inn
 ### 📖 Term 5
 
 > 📌 **[Introduction to AI](https://github.com/WSm-77/introduction_to_ai)**
+>
+> 📌 **[Theory of Concurrency](https://github.com/WSm-77/theory_of_concurency)**
 
 > #### 🛠️ Projects
 >
