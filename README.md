@@ -137,3 +137,5 @@ I'm Wiktor, a passionate computer science student with a love for coding and inn
 > 🧪 **[TODO App in Flask](https://github.com/WSm-77/flask_projects)** ⭐
 >
 > 🤖 **[Understanding Deep Learning Notebook Solutions](https://github.com/WSm-77/udlbook)** ⭐
+>
+> 💻 **[ADATA ML Hackathon](https://github.com/WSm-77/adata_hackathon)** ⭐
