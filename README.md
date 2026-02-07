@@ -141,4 +141,6 @@ I'm Wiktor, a passionate computer science student with a love for coding and inn
 > 💻 **[ADATA ML Hackathon](https://github.com/WSm-77/adata_hackathon)** ⭐
 > 
 > 🧑‍💻 **[AI Agents Workshop](https://github.com/WSm-77/ai-agents-workshop)** ⭐
+> 
+> 🌐 **[Fake RIPv2 router](https://github.com/WSm-77/scapy_project) ⭐**
 
