@@ -143,4 +143,6 @@ I'm Wiktor, a passionate computer science student with a love for coding and inn
 > 🧑‍💻 **[AI Agents Workshop](https://github.com/WSm-77/ai-agents-workshop)** ⭐
 > 
 > 🌐 **[Fake RIPv2 router](https://github.com/WSm-77/scapy_project) ⭐**
+>
+> 📊 **[Word2Vec in pure NumPy](https://github.com/WSm-77/word2vec_numpy) ⭐**
 
