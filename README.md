@@ -5,7 +5,14 @@ I'm Wiktor, a passionate computer science student with a love for coding and inn
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wiktor-sędzimir-2799862b4)
+
+Check out my social media profiles to connect and stay updated with my latest projects and insights!
+
+> [!TIP]
+> Links to my portfolio website and LinkedIn profile are also included below.
+
+[![Website](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://wsm-77.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wiktor-sędzimir-2799862b4)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
