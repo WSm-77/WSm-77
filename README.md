@@ -131,6 +131,10 @@ Check out my social media profiles to connect and stay updated with my latest pr
 >
 > 🚀 **[Interpreter for matrix operations](https://github.com/WSm-77/compilers) ⭐**
 
+### 📖 Term 6
+
+> 📌 **[Distributed Systems](https://github.com/WSm-77/distributed_systems) ⭐**
+
 # 🌟 Side Projects
 
 > 🧩 **[LeetCode](https://github.com/WSm-77/leetCode)** ⭐
