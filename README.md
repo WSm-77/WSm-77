@@ -135,7 +135,7 @@ Check out my social media profiles to connect and stay updated with my latest pr
 
 > 📌 **[Distributed Systems](https://github.com/WSm-77/distributed_systems) ⭐**
 >
-> 📌 **[Basics of Machnie Learning](https://github.com/WSm-77/basics_of_machine_learning)) ⭐**
+> 📌 **[Basics of Machnie Learning](https://github.com/WSm-77/basics_of_machine_learning) ⭐**
 
 # 🌟 Side Projects
 
